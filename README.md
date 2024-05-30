@@ -4,6 +4,6 @@
 
 🤝 I’m looking to collaborate on SQL, EXCEL, and DATA VISUALIZATION PROJECTS Using POWER BI, LOOKER or TABLEAU etc.
 
-📫 You can reach out to me on 7978152641/shgaurav42.gs@gmail.com or via LinkedIn (
+📫 You can reach out to me on 7978152641/shgaurav42.gs@gmail.com or via LinkedIn.
 
 👀 I’m into Guitar,Travel,Snooker,Chess,Astronomy and few more stuff. Let's turn data into knowledge together!
