@@ -1,6 +1,6 @@
 👋 Hi, I’m Gourav Sharma.
 
-🌱 I’m currently learning Python, you'll find a collection of my projects and resources that showcase my skills and my love for data analysis.
+🌱 You'll find a collection of my projects and resources that showcase my skills and my love for data analysis.
 
 🤝 I’m looking to collaborate on SQL, EXCEL, and DATA VISUALIZATION PROJECTS Using POWER BI, LOOKER or TABLEAU etc.
 
