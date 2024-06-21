@@ -1,9 +1,9 @@
 👋 Hi, I’m Gourav Sharma.
 
-🌱 You'll find a collection of my projects and resources that showcase my skills and my love for data analysis.
+🌱 Welcome to my portfolio! Here you'll find a collection of my projects and resources that showcase my skills and passion for data analysis.
 
-🤝 I’m looking to collaborate on SQL, EXCEL, and DATA VISUALIZATION PROJECTS Using POWER BI, LOOKER or TABLEAU etc.
+🤝 I’m eager to collaborate on projects involving SQL, Excel, and data visualization using Power BI, Looker, Tableau, and more.
 
-📫 You can reach out to me on 7978152641/shgaurav42.gs@gmail.com or via LinkedIn.
+📫 Feel free to reach out to me at 7978152641 or via email at shgaurav42.gs@gmail.com. You can also connect with me on LinkedIn.
 
-👀 I’m into Guitar,Travel,Snooker,Chess,Astronomy and few more stuff. Let's turn data into knowledge together!
+👀 Beyond data, I enjoy playing the guitar, traveling, snooker, chess, and astronomy. Let’s turn data into knowledge together!
