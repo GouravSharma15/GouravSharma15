@@ -1,6 +1,6 @@
 👋 Hi, I’m Gourav Sharma.
 
-🌱 Welcome to my portfolio! Here you'll find a collection of my projects and resources that showcase my skills and passion for data analysis.
+🌱 Welcome to My Portfolio! I'm excited to share my work with you. Although my previous GitHub account is no longer active, I've created this space to showcase my projects and resources that highlight my skills and passion for data analysis. Here, you'll find a diverse collection of my endeavors in the field, each demonstrating my commitment to uncovering insights through data.
 
 👀 My Key skills for an Business operations analyst include proficiency in data analysis (Excel, SQL, Python(Basics)), database management (SQL queries, relational databases), 
 process automation (Python, PowerShell), business intelligence tools (Tableau, Power BI), and project management software (Jira, Asana).
