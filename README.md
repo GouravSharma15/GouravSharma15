@@ -7,7 +7,7 @@ process automation (Python, PowerShell), business intelligence tools (Tableau, P
 
 📫 Feel free to reach out to me at 7978152641 or via email at shgaurav42.gs@gmail.com. You can also connect with me on LinkedIn.
 
-👀 Beyond data, I enjoy playing the guitar, traveling, snooker, chess, and astronomy. Let’s turn data into knowledge together!
+👀 Beyond data, I enjoy playing the Guitar, Traveling, Snooker, Chess, and Astronomy. Let’s turn data into knowledge together!
 
 
 
