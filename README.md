@@ -8,7 +8,9 @@
 
 📫 Feel free to reach out to me at 7978152641 or via email at shgaurav42.gs@gmail.com. You can also connect with me on LinkedIn.
 
-👀 Beyond data, I enjoy playing the guitar, traveling, playing snooker and chess, and exploring astronomy. Let’s turn data into knowledge together!
+🎸 Outside of work, I am passionate about playing the guitar, traveling to new destinations, engaging in snooker and chess, and delving into the study of astronomy.
+
+Let’s turn data into knowledge together!
 
 
 
