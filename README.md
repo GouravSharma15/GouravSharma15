@@ -1,16 +1,71 @@
-👋 Hi, I’m Gourav Sharma.
+👋 Hi, I’m Gourav Sharma
+Senior Business Analyst | Revenue Strategy & Business Intelligence
 
-🌱 Welcome to My Portfolio! I'm excited to share my work with you. Although my previous GitHub account is no longer active, I've created this space to showcase my projects and resources that highlight my skills and passion for data analysis. Here, you'll find a diverse collection of my endeavors in the field, each demonstrating my commitment to uncovering insights through data.
+📍 Hyderabad, India
+📧 shgaurav42.gs@gmail.com
+📱 +91 7978152641
+🔗 LinkedIn
 
-👀 As a Business Operations Analyst, my key skills include proficiency in data analysis (Excel, SQL, Python), database management (SQL queries, relational databases), process automation (Python, PowerShell), business intelligence tools (Tableau, Power BI), and project management software (Jira, Asana).
-![image](https://github.com/GouravSharma15/GouravSharma15/assets/152855019/d272c72c-7e16-4ba8-a179-6026536676f1)
+🚀 About Me
 
+Welcome to my portfolio repository!
 
-📫 Feel free to reach out to me at 7978152641 or via email at shgaurav42.gs@gmail.com. You can also connect with me on LinkedIn.
+I’m a Senior Business Analyst with 7+ years of experience across Sustainability, EdTech, KPO, and SaaS startups, specializing in:
 
-🎸 Outside of work, I am passionate about playing the guitar, traveling to new destinations, engaging in snooker and chess, and delving into the study of astronomy.
+📊 Revenue Strategy & Forecasting
+📈 Business Intelligence & Dashboarding
+⚡ ETL Automation & Data Pipelines
+🎯 KPI & OKR Frameworks
+🧠 CXO-Level Analytics & Decision Support
+🔍 Data-Driven Process Optimization
 
-Let’s turn data into knowledge together!
+This GitHub space showcases my projects, dashboards, analytics workflows, and resources that reflect my passion for transforming raw data into actionable business insights.
 
+🛠 Tech Stack & Tools
+Analytics & BI
 
+SQL Power BI Tableau Advanced Excel Alteryx
 
+Data & Automation
+
+ETL Pipelines Python Google Apps Script Zapier
+
+CRM & Operations
+
+Salesforce LeadSquared Jira
+
+Business Strategy
+
+Revenue Forecasting Scenario Modelling KPI Design OKR Frameworks Business Intelligence
+
+📌 What You’ll Find Here
+📊 Power BI & Tableau Dashboards
+🧮 SQL-Based Business Analysis Projects
+📈 Revenue Forecasting Models
+⚙️ ETL & Reporting Automation Workflows
+📑 KPI & Business Performance Frameworks
+🧠 Real-World Business Analytics Use Cases
+🏆 Career Highlights
+Delivered forecasting systems supporting ₹70–90 Cr business planning
+Achieved 90–95% forecasting accuracy using structured analytics models
+Reduced reporting turnaround time by 50% through ETL automation
+Enabled 80% faster decision-making via executive dashboards & KPI scorecards
+🌱 Currently Exploring
+Advanced Power BI & DAX
+Enterprise Data Governance
+Predictive Analytics & Forecasting
+Strategic Business Intelligence Frameworks
+🎸 Beyond Work
+
+Outside analytics, I enjoy:
+
+🎸 Playing Guitar
+✈️ Traveling
+♟️ Chess & Snooker
+🔭 Astronomy & Space Science
+📫 Let’s Connect
+
+📧 Email: shgaurav42.gs@gmail.com
+🔗 LinkedIn Profile
+
+⭐ Always open to collaborating on analytics, BI, strategy, and data-driven growth projects.
